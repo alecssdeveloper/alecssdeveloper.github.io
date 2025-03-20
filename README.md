@@ -1,4 +1,3 @@
-# alecssdeveloper.github.io
 
 # 💻 Salut! Eu sunt [alecssdeveloper](https://github.com/alecssdeveloper)
 
@@ -61,10 +60,10 @@ Iată câteva dintre cele mai recente repository-uri la care lucrez:
 
 ### 🎯 Contribuții și realizări
 - 🌟 Am contribuit la mai multe proiecte open-source.
-- 🏅 Am realizat X contribuții în ultimul an!
+- 🏅 Am realizat 50 contribuții în ultimul an!
 - 📣 Contribui activ la proiecte în domeniul securității și automatizării.
 
 ## 📫 Cum să mă contactezi:
 Simte-te liber să mă contactezi prin:
-- Email: alisavage83@gmail.com
-- Telegram: @ToxicSavage
+- Email: alecsalecs021@gmail.com
+- Telegram: @alecss12
